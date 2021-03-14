@@ -1,53 +1,41 @@
-Palladium-OS v1.0 Changelogs :-
+Palladium-OS v1.1 Changelogs :-
 
-01/02/2021
+14/03/2021
 
 Source Changelogs:-
 
-- New Settings UI
-- New About Phone UI
-- Atomichub v1.0
-- pdC version 1.0
-- Enabled SystemUI Tuner
-- Added Custom Clocks
-- QTI BT 
-- Double Tap to Sleep
-- Double Tap to wake
-- Lock Screen Charging Info
-- Switch Styles
-- Face Unlock Support
-- MIUI Styled Volume Panel
-- Rounded corner
-- User Selectable Font options
-- RGB Accent picker.
-- Lock Screen Clock Styles
-- System Theme options
-- Volume Rocker Wake
-- Volume Rocker Cursor Controls
-- Volume Rocker Music Controls
-- Torch Long Press Power
-- Auto Turn Off Torch
-- Wake on Plug
-- HW Buttons Customization
-- Accidental Touch
-- Adaptive Playback
-- Hidden & Protected apps
-- QS Brightness slider
-- Status Bar Battery Styles.
-- Volte User Selectable Icon
-- Show 4G Instead of LTE
-- Lockscreen Charging Info
-- Data Disabled indicator
-- OOS Style clear all button
-- Old-Style mobile data icons
-- Roaming Indicator
-- Network Traffic Indicator
-- Clock Settings
-- Data Usage in QS Header
-- Haptic Feedback to QS tiles
-- Heads Up 
-- Gaming Mode
-- FOD Recognizing Animation
-- Three Fingers Swipe to Screenshot
-- Gesture Bar options
-- Vooc Charging Support 
+- Merged march security patch
+- Added our new updater app (for official devices)
+- Updated palladium community app 
+- Updated atomichub  
+- Updated About phone UI (for official devices)
+- Added smart cutoff
+- Added reset battery stats option
+- Added smart charging
+- Added vowifi icon support
+- Updated volte icon from oos11
+- Added new face unlock 
+- Added face unlock animation
+- Added support for exfat
+- Added option to disable scrolling cache
+- Added Google dialer with call recording support
+- Enabled privacy indicators
+- MD icons in powermenu
+- New old style data implementation
+- Added custom 404 IDE clock
+- Added arrow keys while typing
+- Added support for overlaying max system icons
+- Added QS tint toggle
+- Added invert navbar and layout options
+- Removed Black QS status bar background
+- Sync system icons from oos 11
+- QS detail view
+- Added volume panel styles
+- Made miui volume panel optional
+- Added toggle to switch volume panel to left
+- Fixed Accent color picker issues
+- Fixed Settings Brightness crash
+- Fixed uneven orientation of Brightness slider in quick qs
+- Fixed overflowing of system icons when network traffic is enabled
+- Fixed all issues related to network traffic
+- Stability changes
